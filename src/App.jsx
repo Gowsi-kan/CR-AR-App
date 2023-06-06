@@ -3,6 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 // Sample typing
+// 1,2,3
 function App() {
   const [count, setCount] = useState(0)
 
